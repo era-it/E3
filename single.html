@@ -80,7 +80,7 @@
             //acá voy por el JSON
 
             async function astros() {
-                const consulta = await fetch("https://raw.githubusercontent.com/era-it/E3/refs/heads/main/README.md");
+                const consulta = await fetch("https://raw.githubusercontent.com/era-it/E3/refs/heads/main/datos.json");
                 const data = await consulta.json();
                 console.log(data);
 
@@ -92,16 +92,16 @@
 <div id="carouselExample" class="carousel slide w-50" data-bs-ride="carousel">
   <div class="carousel-inner">
     <div class="carousel-item active">
-      <img src="https://paulinatobar.github.io/dno096-evaluacion03/img/${data[x].fotos[0]}" class="d-block w-100" alt="...">
+      <img src="https://era-it.github.io/E3/img/${data[x].fotos[0]}" class="d-block w-100" alt="...">
     </div>
     <div class="carousel-item active">
-      <img src="https://paulinatobar.github.io/dno096-evaluacion03/img/${data[x].fotos[1]}" class="d-block w-100" alt="...">
+      <img src="https://era-it.github.io/E3/img/${data[x].fotos[1]}" class="d-block w-100" alt="...">
     </div>
     <div class="carousel-item active">
-      <img src="https://paulinatobar.github.io/dno096-evaluacion03/img/${data[x].fotos[2]}" class="d-block w-100" alt="...">
+      <img src="https://era-it.github.io/E3/img/${data[x].fotos[2]}" class="d-block w-100" alt="...">
     </div>
     <div class="carousel-item active">
-      <img src="https://paulinatobar.github.io/dno096-evaluacion03/img/${data[x].fotos[3]}" class="d-block w-100" alt="...">
+      <img src="https://era-it.github.io/E3/img/${data[x].fotos[3]}" class="d-block w-100" alt="...">
     </div>
   </div>
   <button class="carousel-control-prev" type="button" data-bs-target="#carouselExample" data-bs-slide="prev">
