@@ -40,6 +40,9 @@
 ![VISTAS EDEN 3](https://github.com/user-attachments/assets/acbd48b7-798d-4cde-b9e4-986e954b2e99)
 ![VISTAS EDEN 2](https://github.com/user-attachments/assets/ebe3518b-5651-4675-b4b1-091975dd9d9e)
 ![VISTAS EDEN 1](https://github.com/user-attachments/assets/3beddb2b-d114-4f13-9439-75738f337427)
+![PASARELA EDEN 2](https://github.com/user-attachments/assets/be33c411-ea12-4cf0-aacb-ed1d14db134a)
+
+
 
 ![YO EDEN 4](https://github.com/user-attachments/assets/d3c2abd8-e54f-45f4-81e3-6dbc13864776)
 ![YO EDEN 3](https://github.com/user-attachments/assets/caa46528-5d14-489f-a5bb-11560499b979)
