@@ -40,8 +40,8 @@
         "descripcion": "Fotografías de la flora y fauna de Punta Arenas",
         "fecha": "2023",
         "signo": "Punta Arenas",
-        "foto": "https://github.com/user-attachments/assets/e789f852-aed8-496f-9406-09b50c038db6",
-        "fotos": "",
+        "foto": "FAUNA PTA ARENAS 3.jpg",
+        "fotos": ["FAUNA PTA ARENAS 3.jpg","FAUNA PTA ARENAS 4.jpg","FAUNA PTA ARENAS 5.jpg"],
         "github": "https://github.com/era-it"
     },
     {
@@ -49,8 +49,8 @@
         "descripcion": "Fotografías mías en distintos puntos de Punta Arenas",
         "fecha": "2023",
         "signo": "Punta Arenas",
-        "foto": "https://github.com/user-attachments/assets/07311ab5-af0c-4af1-8d2e-d66f4f0c8cdc",
-        "fotos": "",
+        "foto": "YO PTA ARENAS 1.jpg",
+        "fotos": ["YO PTA ARENAS 2.jpg","YO PTA ARENAS 3.jpg","YO PTA ARENAS 4.jpg"],
         "github": "https://github.com/era-it"
     },
     {
@@ -58,8 +58,8 @@
         "descripcion": "Fotograías de las vistas de la ciudad de Porvenir en Tierra del Fuego",
         "fecha": "2023",
         "signo": "Porvenir",
-        "foto": "https://github.com/user-attachments/assets/09f5fa04-0cb7-4169-8628-09532c2166d1",
-        "fotos": "",
+        "foto": "VISTAS TIERRA DEL FUEGO 1.jpg",
+        "fotos": ["VISTAS TIERRA DEL FUEGO 2.jpg","VISTAS TIERRA DEL FUEGO 3.jpg","VISTAS TIERRA DEL FUEGO 4.jpg"],
         "github": "https://github.com/era-it"
     },
     {
@@ -67,8 +67,8 @@
         "descripcion": "Fotografías de los trabajos realizados durante la Minga de Porvenir en Tierra del Fuego",
         "fecha": "2023",
         "signo": "Porvenir",
-        "foto": "https://github.com/user-attachments/assets/aaf4edde-84c3-4e82-8e65-20c0cf6c95e4",
-        "fotos": "",
+        "foto": "MINGA 1.jpg",
+        "fotos": ["MINGA 1.jpg","MINGA 2.jpg","MINGA 3.jpg"],
         "github": "https://github.com/era-it"
     },
     {
@@ -76,8 +76,8 @@
         "descripcion": "Fotografías de la fauna presente en Porvenir, Tierra del Fuego",
         "fecha": "2023",
         "signo": "Porvenir",
-        "foto": "https://github.com/user-attachments/assets/28f92345-5b94-4773-a3ec-c41c45233b5d",
-        "fotos": "",
+        "foto": "FAUNA TIERRA DEL FUEGO 1.jpg",
+        "fotos": ["FAUNA TIERRA DEL FUEGO 2.jpg","FAUNA TIERRA DEL FUEGO 3.jpg","FAUNA TIERRA DEL FUEGO 4.jpg"],
         "github": "https://github.com/era-it"
     },
     {
@@ -85,8 +85,8 @@
         "descripcion": "Fotografías de los diferentes barcos pesqueros de la localidad de Puerto Edén, Magallanes",
         "fecha": "2023",
         "signo": "Puerto Edén",
-        "foto": "https://github.com/user-attachments/assets/0f7de4aa-567f-4a18-b043-3852ccf02835",
-        "fotos": "",
+        "foto": "BARCO EDEN 1.jpg",
+        "fotos": ["BARCO EDEN 1.jpg","BARCO EDEN 2.jpg","BARCO EDEN 2.jpg"],
         "github": "https://github.com/era-it"
     },
     {
@@ -94,8 +94,8 @@
         "descripcion": "Fotografías de las vistas de la localidad de Puerto Edén, Magallanes", 
         "fecha": "2023",
         "signo": "Puerto Edén",
-        "foto": "https://github.com/user-attachments/assets/be33c411-ea12-4cf0-aacb-ed1d14db134a",
-        "fotos": "",
+        "foto": "PASARELA EDEN 2.jpg",
+        "fotos": ["VISTAS EDEN 1.jpg","VISTAS EDEN 2.jpg","VISTAS EDEN 3.jpg"],
         "github": "https://github.com/era-it"
     },
     {
@@ -103,8 +103,8 @@
         "descripcion": "Fotografías mías viajando por distintos lugares de la localidad de Puerto Edén, Magallanes",
         "fecha": "2023",
         "signo": "Puerto Edén",
-        "foto": "https://github.com/user-attachments/assets/94a7caf6-71ec-4839-a3d5-155649b50344",
-        "fotos": "",
+        "foto": "YO EDEN 1.jpg",
+        "fotos": ["YO EDEN 2.jpg","YO EDEN 3.jpg","YO EDEN 4.jpg"],
         "github": "https://github.com/era-it"
     }
     
