@@ -5,7 +5,7 @@
         "fecha": "2024",
         "signo": "Bariloche",
         "foto": "CATEDRAL 1.jpg",
-        "fotos":"["CATEDRAL 2.jpg","CATEDRAL 3.jpg","CATEDRAL 4.jpg"]",
+        "fotos": ["CATEDRAL 2.jpg", "CATEDRAL 3.jpg", "CATEDRAL 4.jpg"]
         "github": "https://github.com/era-it"
     },
     {
@@ -14,7 +14,7 @@
         "fecha": "2024",
         "signo": "Bariloche",
         "foto": "CIRCUITO CHICO 1.jpg",
-        "fotos": "["CIRCUITO CHICO 2.jpg","CIRCUITO CHICO 3.jpg","CIRCUITO CHICO 4.jpg","CIRCUITO CHICO 5.jpg"]",
+        "fotos": ["CIRCUITO CHICO 2.jpg","CIRCUITO CHICO 3.jpg","CIRCUITO CHICO 4.jpg","CIRCUITO CHICO 5.jpg"],
         "github": "https://github.com/era-it"
     },
     {
@@ -23,7 +23,7 @@
         "fecha": "2024",
         "signo": "Bariloche",
         "foto": "CERRO OTTO 1.jpg",
-        "fotos": "["CERRO OTTO 1.jpg","CERRO OTTO 2.jpg","CERRO OTTO 3.jpg"]",
+        "fotos": ["CERRO OTTO 1.jpg","CERRO OTTO 2.jpg","CERRO OTTO 3.jpg"],
         "github": "https://github.com/era-it"
     },
     {
@@ -31,8 +31,8 @@
         "descripcion": "Fotograías del centro cívico de Punta Arenas",
         "fecha": "2023",
         "signo": "Puenta Arenas",
-        "foto": "https://github.com/user-attachments/assets/58b11edb-fa10-4e4f-8597-b9261722952f",
-        "fotos": "",
+        "foto": "CENTRO PTA ARENAS 1.jpg",
+        "fotos": ["CENTRO PTA ARENAS 1.jpg","CENTRO PTA ARENAS 2.jpg","CENTRO PTA ARENAS 3.jpg"],
         "github": "https://github.com/era-it"
     },
     {
